@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jack/Projects/3dGraphics/build",
+  "command": "/usr/bin/g++ -I/usr/include/SDL2 -g -std=gnu++14 -o CMakeFiles/3dGraphicsEngine.dir/src/3dGraphicsEngine.cpp.o -c /home/jack/Projects/3dGraphics/src/3dGraphicsEngine.cpp",
+  "file": "/home/jack/Projects/3dGraphics/src/3dGraphicsEngine.cpp"
+}
+]

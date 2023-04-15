@@ -1,0 +1,3 @@
+/home/jack/Projects/3dGraphics/build/CMakeFiles/3dGraphicsEngine.dir
+/home/jack/Projects/3dGraphics/build/CMakeFiles/edit_cache.dir
+/home/jack/Projects/3dGraphics/build/CMakeFiles/rebuild_cache.dir
